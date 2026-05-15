@@ -1,4 +1,4 @@
-# ⚠ Security Alert System (UI Simulation)
+# ⚠ Security Alert System
 
 ## 📌 Description
 This project is a **cybersecurity UI simulation** inspired by ransomware-style interfaces.  
